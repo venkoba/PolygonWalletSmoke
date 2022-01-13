@@ -76,7 +76,7 @@ public class SmokeTest extends PageInitializers {
 		getDriver().get("chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#initialize/welcome");
 
 		homePage().click_getsbtn().click_impwalbtn().click_iagreebtn()
-				.enter_secrecvryph("hood edge tackle air humble fitness patch leave glare cushion crunch copy")
+				.enter_secrecvryph("XXXX CXXXXX tXXXX air XXXXX fXXXX VXXXXX HXXXXX dsfds BXXXX MMAMA KKAKKAK")
 				.enter_pwdfield("MMMatic@123").enter_cnfpwd("MMMatic@123").click_iagreechkbox().click_importbtn();
 
 		getDriver().get("https://wallet.polygon.technology/");
